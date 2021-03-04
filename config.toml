@@ -1,12 +1,11 @@
 ######################## default configuration ####################
 baseURL = "https://claranacozinha.github.io/"
 languageCode = "en-us"
-title = "Restaurant Hugo"
+title = "Clara Câmara"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
 publishDir = "docs/"
-
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -42,12 +41,12 @@ URL = "js/main.js"
 ############################## navigation ###############################
 
 [[menu.main]]
-name = "Home"
+name = "Início"
 URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
+name = "Sobre"
 URL = "about-us"
 weight = 2
 
@@ -56,34 +55,19 @@ name = "Blog"
 URL = "blog"
 weight = 3
 
-[[menu.main]]
-name = "Price"
-URL = "price"
-weight = 4
-
-[[menu.main]]
-name = "News"
-URL = "subscribe"
-weight = 5
-
-[[menu.main]]
-name = "Contact Us"
-URL = "contact-us"
-weight = 6
-
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo2.png"
 # meta data
-author = "Themefisher"
+author = "HerminioSabino"
 description = "This is meta description"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # mainSections
 main_sections = ["post"]
 # copyright
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Desenvolvido por [Hermíno Sabino](https://github.com/HerminioSabino)"
 
 # Preloader
 [params.preloader]
@@ -93,59 +77,29 @@ preloader = "" # use .png , .svg or .gif format
 ################################### Footer ############################
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
-galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
-
-############################ footer contact item
-[[params.footer.contactItem]]
-title="Telephone"
-icon = "fa fa-phone"
-content = "016742 323313"
-
-[[params.footer.contactItem]]
-title="Address"
-icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
-
-[[params.footer.contactItem]]
-title="E mail"
-icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+blogTitle = "ÚLTIMOS <span>POST DO BLOG</span>"
+galleryTitle = "FOTOS <span> PUBLICADAS</span>"
+socialTitle = "SIGA NOSSAS <span>REDES SOCIAIS</span>"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/slider-geleia.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/slider-sorvete.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/slider/slider-bolo1.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
+image = "images/slider/slider-bolo2.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/clara.camara11"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.instagram.com/claralcamara/"
