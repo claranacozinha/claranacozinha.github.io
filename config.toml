@@ -46,7 +46,7 @@ URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "Sobre"
+name = "Sobre mim"
 URL = "about-us"
 weight = 2
 
