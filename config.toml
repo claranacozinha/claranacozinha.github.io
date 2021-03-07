@@ -67,7 +67,7 @@ google_analitycs_id = "Your ID"
 # mainSections
 main_sections = ["post"]
 # copyright
-copyright = "Copyright &copy; 2021 Desenvolvido e Desenhado por [Hermíno Sabino](https://github.com/HerminioSabino)"
+copyright = "Copyright &copy; 2021 Desenvolvido por [Hermíno Sabino](https://github.com/HerminioSabino)"
 
 # Preloader
 [params.preloader]
