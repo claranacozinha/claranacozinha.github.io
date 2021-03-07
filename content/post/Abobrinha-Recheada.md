@@ -1,5 +1,5 @@
 ---
-date: "2021-03-01T10:23:10+06:00"
+date: "2021-03-01"
 description: this is meta description
 image: images/blog/blog-bolo-1.jpg
 title: ABOBRINHA RECHEADA 

@@ -1,5 +1,5 @@
 ---
-date: "2021-03-03T12:30:01+06:00"
+date: "2021-03-03"
 description: this is meta description
 image: images/blog/blog-bolo-limao.jpg
 title: BOLO DE LIMÃO
