@@ -46,7 +46,7 @@ URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "Sobre mim"
+name = "Sobre"
 URL = "about-us"
 weight = 2
 
@@ -97,6 +97,8 @@ image = "images/slider/slider-bolo2.jpg"
 [[params.footer.gallery]]
 image = "images/slider/slider-picanha.jpg"
 
+[[params.footer.gallery]]
+image = "images/slider/slider-batata-rustica.jpg"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
